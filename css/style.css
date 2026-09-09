@@ -1,0 +1,8 @@
+.hero {
+    background-image: url("../images/sisabaik-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    padding: 60px 40px;
+}
