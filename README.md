@@ -13,14 +13,16 @@ SisaBaik adalah proyek berkembang pada mata kuliah Pengembangan Web. Aplikasi in
 
 ## Halaman
 
-- `index.html` : halaman informasi SisaBaik.
-- `daftar-penyedia.html` : formulir pendaftaran penyedia.
-- `tawarkan-makanan.html` : formulir penawaran makanan berlebih.
-- `styles.css` : sistem visual dan layout responsif untuk seluruh halaman.
+- `index.html`: halaman informasi SisaBaik.
+- `daftar-penyedia.html`: formulir pendaftaran penyedia.
+- `tawarkan-makanan.html`: formulir penawaran makanan berlebih.
+- `styles.css`: sistem visual dan layout responsif untuk seluruh halaman.
 
 ## Menjalankan proyek
 
-Buka folder proyek di Visual Studio Code, lalu tampilkan `index.html` menggunakan Live Preview atau browser. Pada tahap ini, formulir hanya merupakan prototipe HTML: data belum disimpan ke server atau basis data.
+Buka folder proyek di Visual Studio Code, lalu tampilkan `index.html` menggunakan Live Preview atau browser.
+
+Pada tahap ini, formulir hanya merupakan prototipe HTML: data belum disimpan ke server atau basis data.
 
 ## Integritas akademik
 
