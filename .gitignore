@@ -1,7 +1,4 @@
 node_modules/
-Lenv
-lenv.*
-!.env.example
-DS Store
-Thumbs.db
-7.10g
+.env
+*.log
+.DS_Store
